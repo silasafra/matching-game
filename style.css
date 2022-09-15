@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  /* Colors */
+  --background-color: #051932;
+  --alura-color:#051932;
+  --fiery-rose:#F25A70;
+  --pomb-and-power:#7C5E99;
+  --floral-white:#FFFCEE;
+
+
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: var(--background-color)
+}
+
+
+
+
